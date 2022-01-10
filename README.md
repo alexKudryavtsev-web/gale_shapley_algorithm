@@ -1,0 +1,1 @@
+Gale-Shapley algorithm for admission to a university in Russia
